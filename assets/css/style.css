@@ -1,0 +1,27 @@
+
+.raduis {
+    border-radius: 15px;
+    
+}
+.width {
+   width: 15rem; 
+}
+.pastel0 {
+    background-color: rgb(193, 154, 251);
+}
+
+.pastel1 {
+    background-color: rgb(124, 252, 252);
+}
+
+.pastel2 {
+    background-color: rgb(251, 154, 220);
+}
+
+.pastel3 {
+    background-color: rgb(154, 251, 161);
+}
+
+.pastel4 {
+    background-color: rgb(243, 251, 154);
+}
